@@ -46,6 +46,12 @@ public class Biblioteca2025 {
  */
     private void aportacion(){
 
-        
+         /**
+ *Segunda aportacion al proyecto
+ * @author sergio iglesias lopez
+ */
+    }
+    private void aportacion2(){
+        System.out.println("¿Esto funciona?");
     }
 }
